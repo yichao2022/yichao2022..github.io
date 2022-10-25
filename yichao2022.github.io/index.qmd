@@ -1,0 +1,26 @@
+---
+title: "yichao jin's Quarto web"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+    I am a doctoral student studying the public policy and political economy.My research topic is on rent-seeking behaviors in last two decades
+
+    ### More Information
+
+    Interests:
+
+      * Data Science 
+      * Time series modeling
+
+    ### Contact me
+
+    [yichao.jin@utdallas.edu](mailto:yichao.jin@utdallas.edu)
+
+    [Website](https://yichao2022.github.io)  
