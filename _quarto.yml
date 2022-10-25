@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "yichao jin's Quarto page"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - wordcloud.qmd
+      - about.qmd
+      - href:"file:///C:/Users/yicha/Documents/Fall%202022/EPPS%206302/yichao2022.github.io/Yichao-Jin.html"
+        text:CV
+
+format: 
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
